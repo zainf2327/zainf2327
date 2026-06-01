@@ -3,9 +3,9 @@
 # Hey, I'm Muhammad Zain 👋
 ### Software Engineer · AI Agents · Automation · Full-Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0A2342&center=true&vCenter=true&width=600&lines=Building+systems+that+think+and+act+autonomously.;LLM+tool-calling+loops+%7C+Multi-agent+orchestration;FastAPI+%7C+Supabase+%7C+MCP+%7C+LangGraph;From+prototype+to+production+%E2%80%94+end+to+end.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+systems+that+think+and+act+autonomously.;LLM+tool-calling+loops+%7C+Multi-agent+orchestration;FastAPI+%7C+Supabase+%7C+MCP+%7C+LangGraph;From+prototype+to+production+%E2%80%94+end+to+end.)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Portfolio-zainch.me-0A2342?style=flat-square&logo=google-chrome&logoColor=white)](https://zainch.me)
+[![Website](https://img.shields.io/badge/Website-zainch.me-0A2342?style=flat-square&logo=google-chrome&logoColor=white)](https://zainch.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zainf2327-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainf2327)
 [![Email](https://img.shields.io/badge/Email-zainchoudery786@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zainchoudery786@gmail.com)
 
@@ -126,7 +126,7 @@ If you're building something in the agentic AI space, working on automation infr
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/zainch.me-Visit%20Portfolio-0A2342?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zainch.me)
+[![Website](https://img.shields.io/badge/zainch.me-Visit%20Website-0A2342?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zainch.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainf2327)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainchoudery786@gmail.com)
 
